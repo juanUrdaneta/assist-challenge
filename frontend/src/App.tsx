@@ -2,7 +2,7 @@ import { useCallback, useState } from 'react';
 import './App.css'
 import SearchBox from './components/SearchBox'
 import usePaginatedFetch from './hooks/usePaginatedFetch';
-import ResultList from './components/resultList';
+import ResultList from './components/ResultList';
 
 function App() {
 
